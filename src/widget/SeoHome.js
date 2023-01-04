@@ -5,7 +5,11 @@ let description =
   'Aplikasi toko,software toko ,mesin kasir toko minimarket lengkap barcode system dan touchscreen terbaru.';
 const SEO = () => (
   <Helmet>
-    <html lang="en" />
+    <html lang="id" />
+    <meta
+      name="google-site-verification"
+      content="Xi3WpckDbMBvm1pdlc5XukNoA9uWDmnExIiOeaTOxq0"
+    />
     <title>{title}</title>
     <meta content={description} name="description" />
     <meta content={title} property="og:title" />

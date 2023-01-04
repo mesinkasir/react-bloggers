@@ -22,6 +22,7 @@ const Demo = () => (
         <div className="ratio ratio-16x9 mt-3 mb-5">
           <iframe
             src={Data.video2}
+            loading="lazy"
             className="bunder"
             title={Data.title}
             allowfullscreen

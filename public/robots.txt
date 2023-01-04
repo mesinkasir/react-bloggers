@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://limousine.pages.dev/sitemap.xml
+Sitemap: https://programtoko.axcora.com/sitemap.xml
