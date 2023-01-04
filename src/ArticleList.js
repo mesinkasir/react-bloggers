@@ -10,17 +10,16 @@ const ArticleList = ({ articles }) => (
           <div className="border row ms-3 me-3 bunder">
             <div className="col-md-12 p-3">
               <img
-                className="img-fluid"
+                className="img-fluid bunder"
+                loading="lazy"
+                width="100%"
+                height="100%"
                 alt="{article.title}"
-                src={article.img}
+                src={article.thumb}
               />
             </div>
             <section className="p-3">
               <h3>{article.title}</h3>
-              <p>
-                <a href={article.authorlink}>{article.author}</a> -
-                {article.date}
-              </p>
               <p>{article.content[0].substring(0, 180)}...</p>
             </section>
           </div>

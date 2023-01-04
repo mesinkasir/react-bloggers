@@ -1,18 +1,13 @@
 const About = [
   {
-    title: 'About Limousine Website',
+    title: 'Demo penggunaan program toko dan mesin kasir',
     description:
-      'Free download full source code for limousine and car service website template theme, built using react js.',
-    content: `This is a free source code website template with auto SEO React Helmet injection
-    For support your website touch google page.
+      'Operasional dan implementasi penggunaan program toko,software toko aplikasi kasir toko pada mesin kasir bekerja.',
+    content: `Semakin mudah untuk digunakan dengan all in one touchscreen pos point of sale mesin kasir kami, yang sudah mampu mengakomodasi semua kebutuhan pekerjaan dalam mendukung bisnis usaha retail minimarket dalam konsep nya, penggunaan dengan barcode metode system baik laser barcode hingga mesin cetak kode barcode, kemudahan dalam bekerja dengan printer kasir untuk mencetak struk penjualan kasir, laci kasir cash drawer besi, dan berbagai hardware kasir lain nya untuk mempercepat transaksi dan mencatat pembukuan detail via mesin kasir set paket system.
     `,
-    step1: `For first you need download node js , then install on your local device. after installation success now you can open terminal and run command node -v for check your node version you have install, and you can also run npm -v for check npm version on your device.`,
-    step2: `Oke now we can clone this source code project repo on our github repo, open terminal and run " git clone .git".`,
-    step3: `Now open source code project folder, we need to accsess using terminal, then you can run " npm install ".`,
-    step4: `For run on your local device you can run " npm start " and visit localhost:3000`,
-    step5: `Now open source code with visual code editor, and you can work and change anything with you own.. and save it for update your site. `,
-    step6: `Then push source code on your repo, and deploy on static host like netlify, vercel , firebase, surge. `,
-    step7: `And congratulations..  your modern website built with react is online now`,
+    video: `https://www.youtube.com/embed/zQIjZPnGthc`,
+    video2: `https://www.youtube.com/embed/foa0IlLn_yw`,
+    step3: `Kemampuan secara penuh untuk melakukan integrasi dengan cloud online metode dalam kebutuhan bekerja secara full online, untuk memudahkan pembagian divisi kasir, stok inventori gudang, admin dan lain nya, serta kemampuan nya dengan website content management system untuk membuat website sesuai dengan kreasi sendiri dalam hal update informasi promosi dan diskon hadir pada cloud web app technology dalam digunakan, memudahkan owner cek laporan dimana saja dan kapan saja via berbagai device termasuk penggunaan smartphone android maupun ipone.`,
   },
 ];
 

@@ -37,17 +37,21 @@ const SinglePage = ({ match }) => {
         <meta content={article.title} name="twitter:title" />
       </Helmet>
       <div className="p-1">
-        <div className="border p-1">
-          <img className="img-fluid" alt={article.title} src={article.img} />
+        <div className="border p-1 bunder">
+          <img
+            className="img-fluid bunder"
+            width="100%"
+            height="100%"
+            alt={article.title}
+            src={article.img}
+          />
           <main className="card-content p-3 p-md-5">
             <h1>
-              <a href="/"> {article.title}</a> <span></span>
+              <strong>
+                <a href="/"> {article.title}</a>{' '}
+              </strong>
             </h1>
-            <h3>{article.desc}</h3>
-            <p className="date">
-              by <a href={article.authorlink}>{article.author}</a> on{' '}
-              {article.date}
-            </p>
+            <h2>{article.desc}</h2>
             <p className="dotted" />
             {article.content.map((paragraph, key) => (
               <p key={key}>{paragraph}</p>
