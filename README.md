@@ -1,3 +1,3 @@
-# react-bloggers
+# Blogger react
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/reactlimo-3wprc6)
+On progress developemnt
