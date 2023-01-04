@@ -138,8 +138,8 @@ const articles = [
     title: 'Update Online Mode',
     date: '03-01-2023',
     desc: 'Upgrade ke online mode integrasi web app pos point of sale modern system.',
-    thumb: 'https://mesinkasir.github.io/img/thumb/programtoko(14).webp',
-    img: 'https://mesinkasir.github.io/img/programtoko(14).webp',
+    thumb: 'https://mesinkasir.github.io/assets/img/thumb/toko14.webp',
+    img: 'https://mesinkasir.github.io/assets/img/toko14.webp',
     content: [
       `Sempurna dengan melakukan upgrade dan update ke hybrid online mode dalam kebutuhan integrasi total dengan berbagai teknologi, baik penggunaan desktop software program toko , plus integrasi aplikasi toko kasir online, dan website informasi dengan content management system dalam bekerja, dengan kemudahan membuat website sesuai dengan kreasi sendiri, dan kemudahan untuk cek laporan dimana saja secara real time online dengan update dan upgrade ke cloud mode.`,
     ],
