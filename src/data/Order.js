@@ -10,7 +10,7 @@ const Order = [
     account: `Suci Chanifah`,
     confirm:
       'Setelah melakukan transfer silahkan hubungi staff kami , dan lampirkan screenshoot bukti pembayaran agar pesanan order segera di proses.',
-    link: 'https://wa.me/6285646104747?text=%20hello%20admin%20saya%20mau%20confirmasi%20order%20chrompos%20program%20toko%20%0A%20Nama%20toko%20:%20%0A%20Alamat%20Resto:%20%0A%20Phone%20:%20%0A%20pembayaran%20via%20transfer%20bank%20%0A%20bca%20bank%200181884109%20%0A%20Online%20Payment%20%0A%20%20Mohon%20diproses%20pesanan%20saya.%0A%20%20Terima%20Kasih',
+    link: 'https://wa.me/62895339403223?text=%20hello%20admin%20saya%20mau%20confirmasi%20order%20chrompos%20program%20toko%20%0A%20Nama%20toko%20:%20%0A%20Alamat%20Resto:%20%0A%20Phone%20:%20%0A%20pembayaran%20via%20transfer%20bank%20%0A%20bca%20bank%200181884109%20%0A%20Online%20Payment%20%0A%20%20Mohon%20diproses%20pesanan%20saya.%0A%20%20Terima%20Kasih',
     pricing: 'List Daftar Harga Program Toko',
     desktop: 'Desktop Offline Version',
     webapp: 'Online Version Web App',
